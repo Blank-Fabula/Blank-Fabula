@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fabula)](https://solved.ac/fabula/)
 
 <!--
 **Blank-Fabula/Blank-Fabula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
