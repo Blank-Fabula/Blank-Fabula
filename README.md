@@ -1,4 +1,4 @@
-### ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlank-Fabula&count_bg=%23F5FDFF&title_bg=%2384F3FF&icon=x-pack.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlank-Fabula&count_bg=%23F5FDFF&title_bg=%2384F3FF&icon=x-pack.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fabula)](https://solved.ac/fabula/)
 
