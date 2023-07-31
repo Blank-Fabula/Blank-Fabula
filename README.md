@@ -15,10 +15,8 @@ __『𝕭𝖑𝖆𝖓𝖐 𝖋𝖆𝖒𝖎𝖑𝖎𝖆』__ <br>
 
 <details>
   <summary><strong>GitHub Stats</strong></summary>
-  <a href="https://github.com/Blank-Fabula">
-    <img src=https://github-readme-stats.vercel.app/api/?username=Blank-Fabula&show_icons=true&title_color=84F3FF&icon_color=84F3FF&text_color=FFFFFF&bg_color=22272E />
-  </a>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Blank-Fabula&layout=compact&title_color=84F3FF&icon_color=84F3FF&text_color=FFFFFF&bg_color=22272E align="right" />
+  <a href="https://github.com/Blank-Fabula"><img src=https://github-readme-stats.vercel.app/api/?username=Blank-Fabula&show_icons=true&title_color=84F3FF&icon_color=84F3FF&text_color=FFFFFF&bg_color=22272E /></a>
+  <a href="https://github.com/Blank-Fabula"><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Blank-Fabula&layout=compact&title_color=84F3FF&icon_color=84F3FF&text_color=FFFFFF&bg_color=22272E align="right" /></a>
 </details>
 
 
