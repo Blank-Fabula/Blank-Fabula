@@ -11,6 +11,14 @@ __『𝕭𝖑𝖆𝖓𝖐 𝖋𝖆𝖒𝖎𝖑𝖎𝖆』__ <br>
 <a href="https://solved.ac/profile/fabula">
   <img src="http://mazandi.herokuapp.com/api?handle=fabula&theme=cold" width="300" align="right"/>
 </a>
+<br>
+
+<details>
+  <summary><strong>GitHub Stats</strong></summary>
+  <a href="https://github-readme-stats.vercel.app/api?username=Blank-Fabula">
+    <img src="https://github-readme-stats.vercel.app/api?username=Blank-Fabula" alt="Anurag's GitHub stats">
+  </a>
+</details>
 
 
 [![header](https://capsule-render.vercel.app/api?type=waving&color=0:84F3FF,100:F5FDFF&section=footer&height=107&fontAlign=50&fontAlignY=20&text=END&fontSize=47&fontColor=84F3FF&animation=fadeIn&desc=𝕺𝕽𝕮𝕬&descSize=20&descAlign=93&descAlignY=80)](https://github.com/Blank-Fabula)
