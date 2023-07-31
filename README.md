@@ -3,9 +3,11 @@ __『𝕭𝖑𝖆𝖓𝖐 𝖋𝖆𝖒𝖎𝖑𝖎𝖆』__ <br>
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlank-Fabula&count_bg=%23F5FDFF&title_bg=%2384F3FF&icon=x-pack.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)
 
 <a href="https://solved.ac/profile/fabula">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fabula" width="300">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fabula" width="300" align="left"/>
 </a>
-<a href="https://github.com/Blank-Fabula"><img src="https://github.com/Blank-Fabula/Blank-Fabula/assets/138245914/a9f23406-a697-4f80-97d4-9f946af327c6" width="147"></a>
+<a href="https://github.com/Blank-Fabula">
+  <img src="https://github.com/Blank-Fabula/Blank-Fabula/assets/138245914/a9f23406-a697-4f80-97d4-9f946af327c6" width="147" align="center"/>
+</a>
 <a href="https://solved.ac/profile/fabula">
   <img src="http://mazandi.herokuapp.com/api?handle=fabula&theme=cold" width="300" align="right"/>
 </a>
