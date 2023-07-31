@@ -1,6 +1,6 @@
 __『𝕭𝖑𝖆𝖓𝖐 𝖋𝖆𝖒𝖎𝖑𝖎𝖆』__ <br>
 ---
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlank-Fabula&count_bg=%23F5FDFF&title_bg=%2384F3FF&icon=x-pack.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/Blank-Fabula)<img height="20" src="https://techstack-generator.vercel.app/cpp-icon.svg" style="max-width: 100%;" align="right"/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlank-Fabula&count_bg=%23F5FDFF&title_bg=%2384F3FF&icon=x-pack.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/Blank-Fabula) <img height="20" src="https://techstack-generator.vercel.app/cpp-icon.svg" style="max-width: 100%;"/>
 
 <a href="https://solved.ac/profile/fabula">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fabula" width="300" align="left"/>
