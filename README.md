@@ -7,7 +7,7 @@
 </a>ㅤ
 <a href="https://github.com/Blank-Fabula">
   <img src="http://github.com/Blank-Fabula/Blank-Fabula/assets/138245914/a9f23406-a697-4f80-97d4-9f946af327c6" width="150" align="center"/>
-</a>
+</a>ㅤ
 <a href="https://github.com/Blank-Fabula/BAEKJOON">
   <img src="http://mazandi.herokuapp.com/api?handle=fabula&theme=cold" width="300" align="right"/>
 </a>
