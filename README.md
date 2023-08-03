@@ -20,7 +20,7 @@
 </details>
 <details>
   <summary><strong>Tools</strong></summary>
-  ㅤ<a href="https://www.geogebra.org/calculator"><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Geogebra.svg/120px-Geogebra.svg.png"/></a>
+  ㅤ<a href="https://www.geogebra.org/calculator"><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Geogebra.svg/120px-Geogebra.svg.png"/></a>ㅤ<a href="https://vscode.dev"><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/120px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"/></a>ㅤ<img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/120px-Visual_Studio_Icon_2022.svg.png?20221004110509"/>
 </details>
 
 
