@@ -20,7 +20,7 @@
 </details>
 <details>
   <summary><strong>Stars Lists</strong></summary>
-  ㅤ<a href="https://github.com/stars/Blank-Fabula/lists/algorithm"><img height="22" src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Fluent_Emoji_flat_1f3ab.svg/120px-Fluent_Emoji_flat_1f3ab.svg.png?20220815145127/></a> <sup><strong>ALGORITHM</strong></sup>ㅤ<a href="https://github.com/stars/Blank-Fabula/lists/problem-solving-production"><img height="22" src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Fluent_Emoji_Color_1f9e9.svg/120px-Fluent_Emoji_Color_1f9e9.svg.png?20220822071340/></a> <sup><strong>PROBLEM SOLVING & PRODUCTION
+  ㅤ<a href="https://github.com/stars/Blank-Fabula/lists/algorithm"><img height="20" src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Fluent_Emoji_flat_1f3ab.svg/120px-Fluent_Emoji_flat_1f3ab.svg.png?20220815145127/></a> <sup><strong>ALGORITHM</strong></sup>ㅤ<a href="https://github.com/stars/Blank-Fabula/lists/problem-solving-production"><img height="20" src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Fluent_Emoji_Color_1f9e9.svg/120px-Fluent_Emoji_Color_1f9e9.svg.png?20220822071340/></a> <sup><strong>PROBLEM SOLVING & PRODUCTION
 </strong></sup>
 </details>
 <details>
