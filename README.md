@@ -19,7 +19,8 @@
   <a href="https://github.com/Blank-Fabula"><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Blank-Fabula&layout=compact&title_color=84F3FF&icon_color=84F3FF&text_color=22272E&bg_color=FFFFFF align="right" /></a>
 </details>
 <details>
-  <summary><strong>Stars List</strong></summary>
+  <summary><strong>Stars Lists</strong></summary>
+  <a href="https://github.com/stars/Blank-Fabula/lists/algorithm"><img height="22" src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Fluent_Emoji_flat_1f3ab.svg/120px-Fluent_Emoji_flat_1f3ab.svg.png?20220815145127></a> <sup><strong>ALGORITHM</strong></sup>
 </details>
 <details>
   <summary><strong>Tools</strong></summary>
