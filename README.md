@@ -22,7 +22,7 @@
 </details>
 <details>
   <summary><strong>Stars Lists</strong></summary>
-  <a href="https://github.com/stars/Blank-Fabula/lists/algorithm"><sup><strong>ㅤALGORITHM</strong></sup><a href="https://github.com/stars/Blank-Fabula/lists/problem-solving-production"><sup><strong>ㅤPROBLEM SOLVING & PRODUCTION</strong></sup><br><a href="https://github.com/stars/Blank-Fabula/lists/memo"><sup><strong>ㅤMEMO</strong></sup>
+  <a href="https://github.com/stars/Blank-Fabula/lists/algorithm"><sup><strong>ㅤ-ALGORITHM-</strong></sup><a href="https://github.com/stars/Blank-Fabula/lists/problem-solving-production"><sup><strong>ㅤ-PROBLEM SOLVING & PRODUCTION-</strong></sup><br><a href="https://github.com/stars/Blank-Fabula/lists/memo"><sup><strong>ㅤ-MEMO-</strong></sup>
 </details>
 <details>
   <summary><strong>Tools</strong></summary>
