@@ -13,7 +13,7 @@
 </a>
 <br>
 
-#
+<hr>
 
 <details>
   <summary><strong>GitHub Stats</strong></summary>
