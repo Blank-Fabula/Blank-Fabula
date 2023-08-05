@@ -22,7 +22,7 @@
 </details>
 <details>
   <summary><strong>Stars Lists</strong></summary>
-  ㅤ<a href="https://github.com/stars/Blank-Fabula/lists/algorithm"><img height="20" src=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fluent_Emoji_Color_1f3ab.svg/120px-Fluent_Emoji_Color_1f3ab.svg.png?20220822080028/></a> <sup><strong>ALGORITHM</strong></sup>ㅤ<a href="https://github.com/stars/Blank-Fabula/lists/problem-solving-production"><img height="20" src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Fluent_Emoji_Color_1f9e9.svg/120px-Fluent_Emoji_Color_1f9e9.svg.png?20220822071340/></a> <sup><strong>PROBLEM SOLVING & PRODUCTION</strong></sup><br>ㅤ<a href="https://github.com/stars/Blank-Fabula/lists/memo"><img height="20" src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Fluent_Emoji_Color_1f4cb.svg/120px-Fluent_Emoji_Color_1f4cb.svg.png?20220821215853/></a> <sup><strong>MEMO</strong></sup>
+  <a href="https://github.com/stars/Blank-Fabula/lists/algorithm"><sup><strong>ㅤALGORITHM</strong></sup><a href="https://github.com/stars/Blank-Fabula/lists/problem-solving-production"><sup><strong>ㅤPROBLEM SOLVING & PRODUCTION</strong></sup><br><a href="https://github.com/stars/Blank-Fabula/lists/memo"><sup><strong>ㅤMEMO</strong></sup>
 </details>
 <details>
   <summary><strong>Tools</strong></summary>
