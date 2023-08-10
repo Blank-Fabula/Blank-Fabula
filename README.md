@@ -17,7 +17,7 @@
 
 <details>
   <summary><strong>Coding Problem Platform</strong></summary>
-  ㅤ<a href="https://www.acmicpc.net/user/fabula"><img height="26" src="https://d2gd6pc034wcta.cloudfront.net/images/logo@2x.png" style="max-width: 100%;"/></a>ㅤ<a href="http://ascode.org/userinfo.php?user=20233087"><img src="http://ascode.org/image/ascode-logo.JPG" width="52"/></a>
+  ㅤ<a href="https://www.acmicpc.net/user/fabula"><img height="26" src="https://github.com/Blank-Fabula/Blank-Fabula/assets/138245914/03c46e8f-2f3a-4022-b591-c3e0590a26b2" style="max-width: 100%;"/></a>ㅤ<a href="http://ascode.org/userinfo.php?user=20233087"><img src="http://ascode.org/image/ascode-logo.JPG" width="52"/></a>
 </details>
 <details>
   <summary><strong>GitHub Stats</strong></summary>
