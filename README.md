@@ -34,7 +34,7 @@
 </details>
 
 
-# [![header](https://capsule-render.vercel.app/api?type=waving&color=0:84F3FF,100:F5FDFF&section=footer&height=107&fontAlign=50&fontAlignY=20&text=END&fontSize=47&fontColor=84F3FF&animation=fadeIn&desc=𝕺𝕽𝕮𝕬&descSize=20&descAlign=93&descAlignY=80)](#%F0%9D%95%AD%F0%9D%96%91%F0%9D%96%86%F0%9D%96%93%F0%9D%96%90-%F0%9D%96%8B%F0%9D%96%86%F0%9D%96%92%F0%9D%96%8E%F0%9D%96%91%F0%9D%96%8E%F0%9D%96%86-)
+# [![header](https://capsule-render.vercel.app/api?type=waving&color=0:84F3FF,100:F5FDFF&section=footer&height=107&fontAlign=50&fontAlignY=20&text=END&fontSize=47&fontColor=84F3FF&animation=fadeIn&desc=𝕾𝕴𝕷𝕰𝕹𝕮𝕰 𝕲𝕰𝕬𝕽𝕾&descSize=20&descAlign=93&descAlignY=80)](#%F0%9D%95%AD%F0%9D%96%91%F0%9D%96%86%F0%9D%96%93%F0%9D%96%90-%F0%9D%96%8B%F0%9D%96%86%F0%9D%96%92%F0%9D%96%8E%F0%9D%96%91%F0%9D%96%8E%F0%9D%96%86-)
 <!--
 **Blank-Fabula/Blank-Fabula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
