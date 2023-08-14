@@ -26,7 +26,7 @@
 </details>
 <details>
   <summary><strong>Stars Lists</strong></summary>
-  <a href="https://github.com/stars/Blank-Fabula/lists/inanis-libraril"><sup><strong>ㅤ-INANIS-LIBRARIL-</strong></sup></a><a href="https://github.com/stars/Blank-Fabula/lists/event"><sup><strong>ㅤ-EVENT-</strong></sup></a><a href="https://github.com/stars/Blank-Fabula/lists/memo"><sup><strong>ㅤ-MEMO-</strong></sup></a><br><a href="https://github.com/stars/Blank-Fabula/lists/algorithm"><sup><strong>ㅤ-ALGORITHM-</strong></sup></a><a href="https://github.com/stars/Blank-Fabula/lists/problem-solving-production"><sup><strong>ㅤ-PROBLEM SOLVING & PRODUCTION-</strong></sup></a><br><a href="https://github.com/stars/Blank-Fabula/lists/game"><sup><strong>ㅤ-GAME-</strong></sup></a>
+  <a href="https://github.com/stars/Blank-Fabula/lists/event"><sup><strong>ㅤ-EVENT-</strong></sup></a><a href="https://github.com/stars/Blank-Fabula/lists/inanis-libraril"><sup><strong>ㅤ-INANIS-LIBRARIL-</strong></sup></a><a href="https://github.com/stars/Blank-Fabula/lists/memo"><sup><strong>ㅤ-MEMO-</strong></sup></a><br><a href="https://github.com/stars/Blank-Fabula/lists/algorithm"><sup><strong>ㅤ-ALGORITHM-</strong></sup></a><a href="https://github.com/stars/Blank-Fabula/lists/problem-solving-production"><sup><strong>ㅤ-PROBLEM SOLVING & PRODUCTION-</strong></sup></a><br><a href="https://github.com/stars/Blank-Fabula/lists/game"><sup><strong>ㅤ-GAME-</strong></sup></a>
 </details>
 <details>
   <summary><strong>Tools</strong></summary>
