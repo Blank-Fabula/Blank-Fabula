@@ -18,7 +18,7 @@
 ## <sup>Ongoing tasks: (BAEKJOON & AScode) PS.</sup>
 
 <details>
-  <summary><strong>Coding Problem Platform</strong></summary>
+  <summary><strong>Online Judge Platform</strong></summary>
   ㅤ<a href="http://ascode.org/"><img height="26" src="https://i.ibb.co/WFxvNv2/AScode-removebg-preview.png"/></a> <a href="https://www.acmicpc.net/"><img height="26" src="https://i.ibb.co/fqHCdjx/removebg-preview.png"/></a>
 </details>
 <details>
