@@ -15,7 +15,7 @@
 
 #
 
-## <sup>현재 진행중: (BAEKJOON & AScode) PS.</sup>
+## <sup>Ongoing tasks: (BAEKJOON & AScode) PS.</sup>
 
 <details>
   <summary><strong>Coding Problem Platform</strong></summary>
