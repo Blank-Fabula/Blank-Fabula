@@ -27,6 +27,10 @@
   <a href="https://github.com/Blank-Fabula"><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Blank-Fabula&layout=compact&title_color=84F3FF&icon_color=84F3FF&text_color=22272E&bg_color=FFFFFF align="right" /></a>
 </details>
 <details>
+  <summary><strong>Social Network</strong></summary>
+  ㅤ<a href="https://discord.gg/KTTv6ZRwTt"><img height="20" src="https://theme.zdassets.com/theme_assets/678183/cc59daa07820943e943c2fc283b9079d7003ff76.svg"/></a>
+</details>
+<details>
   <summary><strong>Stars Lists</strong></summary>
   ㅤ<a href="https://github.com/stars/Blank-Fabula/lists/event"><sup><strong>-EVENT-</strong></sup></a>ㅤ<a href="https://github.com/stars/Blank-Fabula/lists/inanis-libraril"><sup><strong>-INANIS-LIBRARIL-</strong></sup></a>ㅤ<a href="https://github.com/stars/Blank-Fabula/lists/memo"><sup><strong>-MEMO-</strong></sup></a><br>ㅤ<a href="https://github.com/stars/Blank-Fabula/lists/algorithm"><sup><strong>-ALGORITHM-</strong></sup></a>ㅤ<a href="https://github.com/stars/Blank-Fabula/lists/problem-solving-production"><sup><strong>-PROBLEM SOLVING & PRODUCTION-</strong></sup></a><br>ㅤ<a href="https://github.com/stars/Blank-Fabula/lists/game"><sup><strong>-GAME-</strong></sup></a>
 </details>
