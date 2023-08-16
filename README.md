@@ -28,7 +28,7 @@
 </details>
 <details>
   <summary><strong>Social Network</strong></summary>
-  ㅤ<a href="https://discord.gg/KTTv6ZRwTt"><img height="20" src="https://theme.zdassets.com/theme_assets/678183/cc59daa07820943e943c2fc283b9079d7003ff76.svg"/></a>
+  ㅤ<sub><a href="https://discord.gg/KTTv6ZRwTt"><img height="20" src="https://cdn.worldvectorlogo.com/logos/discord-logo-color-wordmark-1.svg"/></a> <a href="https://www.instagram.com/lgt.04/?next=%2F"><img height="20" src="https://cdn.worldvectorlogo.com/logos/instagram-1.svg"/></a><sub>
 </details>
 <details>
   <summary><strong>Stars Lists</strong></summary>
