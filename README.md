@@ -15,7 +15,7 @@
 
 #
 
-## <sup>Ongoing tasks: (BAEKJOON & AScode) PS.</sup>
+## <sup>Ongoing tasks: (AScode & BAEKJOON & programmers) PS.</sup>
 
 <details>
   <summary><strong>Coding Problem Platform</strong></summary>
