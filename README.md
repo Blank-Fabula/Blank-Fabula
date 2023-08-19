@@ -18,7 +18,7 @@
 ## <sub>Ongoing tasks: (AScode & BAEKJOON & programmers) PS. <br>ㅤ</sub>
 
 <details><hr>
-  <summary><strong>Coding Problem Platform</strong></summary>
+  <summary><strong>Coding Problem Solving</strong></summary>
   ㅤ<sub><a href="https://github.com/Blank-Fabula/ASCODE"><img height="26" src="https://i.ibb.co/jhT5c6D/AScode-removebg-preview-1.png"/></a> <a href="https://github.com/Blank-Fabula/BAEKJOON"><img height="26" src="https://i.ibb.co/Xx4QQwV/removebg-preview-1.png"/></a><br>ㅤㅤ<a href="https://github.com/Blank-Fabula/PROGRAMMERS"><img height="26" src="https://i.ibb.co/VJ7QCVS/removebg-preview.png"/></a></sub>
 <hr></details>
 <details><hr>
