@@ -1,6 +1,6 @@
 # __『𝕭𝖑𝖆𝖓𝖐 𝖋𝖆𝖒𝖎𝖑𝖎𝖆』__ <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlank-Fabula&count_bg=%23F5FDFF&title_bg=%2384F3FF&icon=x-pack.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/Blank-Fabula)ㅤ<a href="https://learn.microsoft.com/ko-kr/training/modules/rust-introduction/"><img height="20" src="https://cdn.worldvectorlogo.com/logos/rust.svg" style="max-width: 100%;"/></a>ㅤ<a href="https://en.cppreference.com"><img height="20" src="https://techstack-generator.vercel.app/cpp-icon.svg" style="max-width: 100%;"/></a>ㅤ<a href="https://github.com/Blank-Fabula/Blank-Fabula/assets/138245914/80be8a14-60b1-47d0-a663-b52a45a7cbe9"><img src="http://github.com/Blank-Fabula/Blank-Fabula/assets/138245914/a9f23406-a697-4f80-97d4-9f946af327c6" width="20" align="right"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlank-Fabula&count_bg=%23F5FDFF&title_bg=%2384F3FF&icon=x-pack.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/Blank-Fabula)ㅤ<a href="https://github.com/Blank-Fabula/Blank-Fabula/assets/138245914/80be8a14-60b1-47d0-a663-b52a45a7cbe9"><img src="http://github.com/Blank-Fabula/Blank-Fabula/assets/138245914/a9f23406-a697-4f80-97d4-9f946af327c6" width="20" align="right"/></a>
 
 <a href="https://solved.ac/profile/fabula">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fabula" width="300" align="left"/>
@@ -20,6 +20,10 @@
 <details><hr>
   <summary><strong>Coding Problem Solving</strong></summary>
   ㅤ<sub><a href="https://github.com/Blank-Fabula/ASCODE"><img height="26" src="https://i.ibb.co/jhT5c6D/AScode-removebg-preview-1.png"/></a> <a href="https://github.com/Blank-Fabula/BAEKJOON"><img height="26" src="https://i.ibb.co/Xx4QQwV/removebg-preview-1.png"/></a><br>ㅤㅤ<a href="https://github.com/Blank-Fabula/PROGRAMMERS"><img height="26" src="https://i.ibb.co/VJ7QCVS/removebg-preview.png"/></a></sub>
+<hr></details>
+<details><hr>
+  <summary><strong>Current Interests</strong></summary>
+  ㅤ<sub><a href="https://en.cppreference.com"><img height="26" src="https://cdn.worldvectorlogo.com/logos/c.svg" style="max-width: 100%;"/></a>ㅤ<a href="https://www.gamedeveloper.com/"><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Game_Developer_favicon.svg/41px-Game_Developer_favicon.svg.png?20210826222623" style="max-width: 100%;"/></a>ㅤ<a href="https://learn.microsoft.com/ko-kr/training/modules/rust-introduction/"><img height="26" src="https://cdn.worldvectorlogo.com/logos/rust.svg" style="max-width: 100%;"/></a></sub>
 <hr></details>
 <details><hr>
   <summary><strong>GitHub Stats</strong></summary>
