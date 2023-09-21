@@ -22,7 +22,7 @@
 <hr></details>
 <details><hr>
   <summary><strong>Current Interests</strong></summary>
-  ㅤ<sub><a href="https://en.cppreference.com"><img height="26" src="https://cdn.worldvectorlogo.com/logos/c.svg" style="max-width: 100%;"/></a>ㅤ<a href="https://learn.microsoft.com/ko-kr/training/modules/rust-introduction/"><img height="26" src="https://cdn.worldvectorlogo.com/logos/rust.svg" style="max-width: 100%;"/></a>ㅤ<a href="https://www.gamedeveloper.com/"><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Game_Developer_favicon.svg/41px-Game_Developer_favicon.svg.png?20210826222623" style="max-width: 100%;" align="right"/></a></sub>
+  ㅤ<sub><a href="https://en.cppreference.com"><img height="26" src="https://cdn.worldvectorlogo.com/logos/c.svg" style="max-width: 100%;"/></a>ㅤ<a href="https://learn.microsoft.com/ko-kr/training/modules/rust-introduction/"><img height="26" src="https://cdn.worldvectorlogo.com/logos/rust.svg" style="max-width: 100%;"/></a>ㅤ<a href="https://www.linux.org/"><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Font_Awesome_5_brands_linux.svg/105px-Font_Awesome_5_brands_linux.svg.png?20181017221856" style="max-width: 100%;"/></a>ㅤ<a href="https://www.gamedeveloper.com/"><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Game_Developer_favicon.svg/41px-Game_Developer_favicon.svg.png?20210826222623" style="max-width: 100%;" align="right"/></a></sub>
 <hr></details>
 <details><hr>
   <summary><strong>GitHub Stats</strong></summary>
