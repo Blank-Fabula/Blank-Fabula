@@ -11,7 +11,6 @@
 <a href="https://github.com/Blank-Fabula/BAEKJOON">
   <img src="http://mazandi.herokuapp.com/api?handle=fabula&theme=cold" width="300" align="right"/>
 </a>
-<br>
 
 #
 
