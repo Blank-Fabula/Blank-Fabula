@@ -13,6 +13,8 @@
 </a>
 
 <hr>
+<strong>Ongoing tasks: (AScode & BAEKJOON & programmers) PS. </strong>
+<hr>
 
 <details><hr>
   <summary><strong>Coding Problem Solving</strong></summary>
