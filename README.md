@@ -14,7 +14,7 @@
 
 #
 
-## <sub>Ongoing tasks: (AScode & BAEKJOON & programmers) PS. <br>ㅤ</sub>
+##
 
 <details><hr>
   <summary><strong>Coding Problem Solving</strong></summary>
