@@ -13,7 +13,6 @@
     <img src="http://mazandi.herokuapp.com/api?handle=fabula&theme=cold" width="300" align="right" />
   </a>
 </p>
-<img width="305" alt="Untitled" src="https://github.com/Blank-Fabula/Blank-Fabula/assets/138245914/65a0ce57-0805-4a00-b6dc-a860a4c31eed">
 
 <hr>
 <strong>Ongoing tasks: (AScode & BAEKJOON & programmers) PS. </strong>
