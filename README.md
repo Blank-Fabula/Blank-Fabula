@@ -4,13 +4,13 @@
 
 <div style="display: flex; justify-content: center;">
   <a href="https://solved.ac/profile/fabula">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fabula" style="max-width: 100%; width: 300px; height: auto;" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fabula" style="max-width: auto; width: 300px; height: auto;" />
   </a>
   <a href="https://github.com/Blank-Fabula">
-    <img src="https://avatars.githubusercontent.com/u/138245914?v=4" style="max-width: 100%; width: 157px; height: auto;" />
+    <img src="https://avatars.githubusercontent.com/u/138245914?v=4" style="max-width: auto; width: 157px; height: auto;" />
   </a>
   <a href="https://github.com/Blank-Fabula/BAEKJOON">
-    <img src="http://mazandi.herokuapp.com/api?handle=fabula&theme=cold" style="max-width: 100%; width: 300px; height: auto;" />
+    <img src="http://mazandi.herokuapp.com/api?handle=fabula&theme=cold" style="max-width: auto; width: 300px; height: auto;" />
   </a>
 </div>
 
