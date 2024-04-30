@@ -22,9 +22,19 @@
 <hr></details>
 <details><hr>
   <summary><strong>GitHub Stats</strong></summary>
-  <sub><a href="https://github.com/Blank-Fabula"><img src=https://github-readme-stats.vercel.app/api/?username=Blank-Fabula&show_icons=true&title_color=84F3FF&icon_color=84F3FF&text_color=22272F&bg_color=FFFFFF/></a>
-  <a href="https://github.com/Blank-Fabula"><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Blank-Fabula&layout=compact&title_color=84F3FF&icon_color=84F3FF&text_color=22272F&bg_color=FFFFFF align="right" /></a></sub>
-<hr></details>
+  <sub>
+    <table align = "center">
+      <tr>
+        <th>
+          <a href="https://github.com/Blank-Fabula"><img src=https://github-readme-stats.vercel.app/api/?username=Blank-Fabula&show_icons=true&title_color=84F3FF&icon_color=84F3FF&text_color=22272F&bg_color=FFFFFF/></a>
+        </th>
+        <th>  
+          <a href="https://github.com/Blank-Fabula"><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Blank-Fabula&layout=compact&title_color=84F3FF&icon_color=84F3FF&text_color=22272F&bg_color=FFFFFF/></a></sub>
+        </th>
+      </tr>
+    </table>
+  <hr>
+</details>
 <details><hr>
   <summary><strong>Social Network</strong></summary>
   ㅤ<sub><a href="https://discord.gg/KTTv6ZRwTt"><img height="20" src="https://cdn.worldvectorlogo.com/logos/discord-logo-color-wordmark-1.svg"/></a> <a href="https://www.instagram.com/lgt.04/?next=%2F"><img height="20" src="https://cdn.worldvectorlogo.com/logos/instagram-1.svg"/></a></sub>
