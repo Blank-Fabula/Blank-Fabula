@@ -1,16 +1,10 @@
 # __『𝕭𝖑𝖆𝖓𝖐 𝖋𝖆𝖒𝖎𝖑𝖎𝖆』__ 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlank-Fabula&count_bg=%23F5FDFF&title_bg=%2384F3FF&icon=x-pack.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/Blank-Fabula)ㅤ<a href="https://github.com/Blank-Fabula/Blank-Fabula/assets/138245914/e1d280a7-beb9-441b-9195-253d49fbcf0a"><img src="http://github.com/Blank-Fabula/Blank-Fabula/assets/138245914/a9f23406-a697-4f80-97d4-9f946af327c6" width="20" align="right"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlank-Fabula&count_bg=%232F2F2F&title_bg=%232F2F2F&icon=x-pack.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/Blank-Fabula)
 
-<p align="center">
-  <a href="https://solved.ac/profile/fabula">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fabula" width="300" align="left"/>
-  </a> ㅤ
+<p align="center">ㅤ
   <a href="https://github.com/Blank-Fabula">
     <img src="https://avatars.githubusercontent.com/u/138245914?v=4" width="157" align="center"/>
-  </a>
-  <a href="https://github.com/Blank-Fabula/BAEKJOON">
-    <img src="http://mazandi.herokuapp.com/api?handle=fabula&theme=cold" width="300" align="right" />
   </a>
 </p>
 
