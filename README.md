@@ -1,6 +1,6 @@
 # __『𝕭𝖑𝖆𝖓𝖐 𝖋𝖆𝖒𝖎𝖑𝖎𝖆』__ 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlank-Fabula&count_bg=%232F2F2F&title_bg=%232F2F2F&icon=x-pack.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/Blank-Fabula)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlank-Fabula&count_bg=%232F2F2F&title_bg=%232F2F2F&icon=x-pack.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](#)
 
 <p align="center">ㅤ
   <a href="https://github.com/Blank-Fabula">
